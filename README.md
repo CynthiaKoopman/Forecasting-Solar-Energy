@@ -10,3 +10,5 @@ the model are extensively discussed. An analysis of power spectral density
 of the predicted values shows that there exist diculties in predicting in low
 frequencies. The LSTM model shows overall promising results and can be
 used for various data sizes.
+
+For data please request at BSRN: https://bsrn.awi.de/
