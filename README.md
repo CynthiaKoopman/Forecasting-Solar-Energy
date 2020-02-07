@@ -7,7 +7,7 @@ with a time frame of 1 min is used to built a model. Humidity, Dew/Frost
 point, Station Pressure, month number and day number were found to work
 best to predict solar radiation. Further the tuning, evaluation and testing of
 the model are extensively discussed. An analysis of power spectral density
-of the predicted values shows that there exist diculties in predicting in low
+of the predicted values shows that there exist difficulties in predicting in low
 frequencies. The LSTM model shows overall promising results and can be
 used for various data sizes.
 
